@@ -1,4 +1,4 @@
-# 👋 Hello there! I'm Mohmad Sawan
+# 👋 Hello there! I'm Mohammad Sawan
 
 💻 Passionate about **Web & Mobile Development**  
 🚀 Currently diving deep into:
